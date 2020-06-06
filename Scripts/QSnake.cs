@@ -113,8 +113,7 @@ public class QSnake : MonoBehaviour
 		}
 
 
-		///anyway shoudl load smooth map though because there was not lats update on
-		// rewards after marking paths as complete so many rewards were just as initialized and practically the same
+
 		/*
 		if (direction=='5'){
 		libXs = Mathf.Floor(rbs.position.x);
